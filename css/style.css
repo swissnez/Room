@@ -1,0 +1,99 @@
+body {
+    font-family: 'Spartan', sans-serif;
+    font-size: 12px;
+    
+}
+
+h1 {
+    font-weight: 600;
+}
+
+h2,h3,h4,h5 {
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    font-weight: 600;
+}
+
+h5 {
+    color: #C73737;
+}
+
+p {
+    color: hsl(0, 0%, 63%);
+    margin-top: 2rem;
+}
+
+.furniture {
+    padding: 0 60px;
+}
+
+ img {
+    width:100%;
+}
+.heading-text {
+    width: 60%;
+}
+
+
+.fixed-top {  
+    z-index: 1;
+}
+
+.navbar a {
+    color: white;
+}
+
+.navbar a:hover {
+    color:hsl(0, 0%, 63%);
+}
+
+footer {
+    text-align: center;
+}
+
+.gutter {
+    padding: 7% 15%;
+}
+
+.social {
+    padding: 20px 10px;
+}
+
+
+@media (min-width: 1440px) {
+    
+}
+
+@media (min-width: 375px) {
+    body {
+        
+    }
+}
+/*# Front-end Style Guide
+
+## Layout
+
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
+## Colors
+
+### Primary
+
+- Dark Gray: hsl(0, 0%, 63%)
+- Black: hsl(0, 0%, 0%)
+- White: hsl(0, 0%, 100%)
+- Very Dark Gray: hsl(0, 0%, 27%)
+
+## Typography
+
+### Body Copy
+
+- Font size: 12px
+
+### Font
+
+- Family: [Spartan](https://fonts.google.com/specimen/Spartan)
+- Weights: 500, 600, 700
