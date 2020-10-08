@@ -59,6 +59,21 @@ footer {
     padding: 20px 10px;
 }
 
+.arrows {
+    display:inherit;
+    position: relative;
+    top:100px;
+}
+
+.arrowbutton {
+    background: #100f13;
+
+}
+
+.innovative {
+    color:#C73737;
+}
+
 
 @media (min-width: 1440px) {
     
