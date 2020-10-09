@@ -39,6 +39,11 @@ p {
     z-index: 1;
 }
 
+.navbar {
+    position: absolute;
+    z-index: 1;
+}
+
 .navbar a {
     color: white;
 }
@@ -60,9 +65,7 @@ footer {
 }
 
 .arrows {
-    display:inherit;
-    position: relative;
-    top:100px;
+    display:inline-flex;
 }
 
 .arrowbutton {
