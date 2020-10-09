@@ -64,6 +64,12 @@ footer {
     padding: 20px 10px;
 }
 
+.brush {
+    height: 50px;
+    width:50px;
+    transform: rotate(10deg);
+}
+
 .arrows {
     display:inline-flex;
 }
